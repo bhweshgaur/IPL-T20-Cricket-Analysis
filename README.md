@@ -68,7 +68,7 @@ From this points table we created graphs for batsman performance, bowler perform
 ---
 ## 3. Entire IPL Analysis​
 
-We are now looking into the bigger picture, we are taking all the matches played till 2019 in IPL and created different graphs to show varius outcomes like contribution of player from different countries, Batsman ranking over, teams performance on different ground, etc.
+We are now looking into the bigger picture, we are taking all the matches played till 2019 in IPL and created different graphs to show various outcomes like contribution of player from different countries, Batsman ranking over, teams performance on different ground, etc.
 
 We also used our mathematical brain and calculated and visualized different probabilities like winning probability, probability of winning on a ground when bat first/field first and match result analysis for different inning on a particular stadium.
 
